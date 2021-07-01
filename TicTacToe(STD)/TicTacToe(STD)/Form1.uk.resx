@@ -126,9 +126,6 @@
   <data name="button3.Text" xml:space="preserve">
     <value>Вийти</value>
   </data>
-  <data name="comboBox1.Items2" xml:space="preserve">
-    <value>UK</value>
-  </data>
   <data name="comboBox1.Text" xml:space="preserve">
     <value>Мова</value>
   </data>
